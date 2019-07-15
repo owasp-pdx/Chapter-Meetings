@@ -1,0 +1,7 @@
+# OWASP Portland Chapter Meetings Repo Contributing.md
+
+## Hosting
+If you are interested in hosting one of our chapter meetings please see our [schedule for 2020](https://github.com/owasp-pdx/Chapter-Meetings/Schedule/2020.md) and **make a pull request for a month you are interested in**.  If there is not a date already set (IE we haven't booked the speaker yet), please edit the file by adding a date that works for your company to host along with the name of your company.  Hosting does require providing food and beverages (Not necessarily alcoholic) for our guests and we do request that your venue support at least 50 guests as our membership and attendance is growing.  Please also make food options available for those who have sensitivity to gluten.
+
+## Speaking
+If you are interested in speaking at one of our chapter meetings please see our [schedule for 2020](https://github.com/owasp-pdx/Chapter-Meetings/Schedule/2020.md) and **make a pull request for a month you are interested in**.  If there is not a date already set (IE we haven't booked the venue yet), please edit the file by adding a date that works for you to speak along with your name and the subject of your talk.  In the comments of your pull request please give us an abstract of your talk and a brief bio.  If you are an out of town speaker, please let us know if you will need help with travel and accomodations.  
